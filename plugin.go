@@ -134,7 +134,7 @@ func (p Plugin) Exec() error {
 		return err
 	}
 
-	log.Println(result)
+	//log.Println(result)
 
 	return nil
 }
